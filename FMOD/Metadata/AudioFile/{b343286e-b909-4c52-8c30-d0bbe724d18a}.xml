@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b343286e-b909-4c52-8c30-d0bbe724d18a}">
+		<property name="assetPath">
+			<value>ui-button-metal-button-spring-push-04.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.51000000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8aaf286a-ea16-4859-b14d-de8d2f36e8ee}</destination>
+		</relationship>
+	</object>
+</objects>
