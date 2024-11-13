@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{1e713aa0-e21e-4e14-8a51-db451cfdfc05}">
+		<property name="assetPath">
+			<value>ES_Light Switch, Plastic x4 01 - Epidemic Sound - 0866-1760.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.89400000000000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8aaf286a-ea16-4859-b14d-de8d2f36e8ee}</destination>
+		</relationship>
+	</object>
+</objects>
