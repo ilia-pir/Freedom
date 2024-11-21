@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{03d88822-0cb6-44bd-840f-1fb3f23db5a4}">
 		<property name="name">
-			<value>UI-Navigate2</value>
+			<value>UI-Navigation</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -95,7 +95,6 @@
 		<property name="timelockedOffset">
 			<value>0.059999999999999998</value>
 		</property>
-		<property name="name" />
 		<property name="volume">
 			<value>-13</value>
 		</property>
