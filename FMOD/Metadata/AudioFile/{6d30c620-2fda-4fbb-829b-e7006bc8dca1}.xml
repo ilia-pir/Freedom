@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{6d30c620-2fda-4fbb-829b-e7006bc8dca1}">
+		<property name="assetPath">
+			<value>ES_Things Lost and Found in the Fire - Playtown.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>186.08177083333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8aaf286a-ea16-4859-b14d-de8d2f36e8ee}</destination>
+		</relationship>
+	</object>
+</objects>
